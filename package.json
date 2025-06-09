@@ -35,7 +35,7 @@
     "@arcjet/env": "^1.0.0-beta.8",
     "@arcjet/ip": "1.0.0-beta.8",
     "@arcjet/next": "1.0.0-beta.8",
-    "@hookform/resolvers": "5.0.1",
+    "@hookform/resolvers": "5.1.0",
     "@nosecone/next": "1.0.0-beta.8",
     "@radix-ui/react-label": "2.1.7",
     "@radix-ui/react-slot": "1.2.3",
@@ -50,7 +50,7 @@
     "react-dom": "19.1.0",
     "react-hook-form": "7.57.0",
     "styled-components": "6.1.18",
-    "zod": "3.25.51"
+    "zod": "3.25.56"
   },
   "devDependencies": {
     "@playwright/test": "1.52.0",
